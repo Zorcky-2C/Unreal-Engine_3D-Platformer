@@ -3528,3 +3528,559 @@ Make sure 'FallGuysCharacter_C' has been compiled for  Get CloudDirectionStart
 [2022.03.11-09.32.55:566][481]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.031
 [2022.03.11-09.32.55:573][481]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2022.03.11-09.32.55:573][481]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-09.38.47:473][331]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.03.11-09.38.47:473][331]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/Developers/Paki/Collections/' because it could not be accessed. Aborting watch request...
+[2022.03.11-09.38.47:473][331]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.03.11-09.38.57:559][427]Cmd: DELETE
+[2022.03.11-09.38.57:559][427]Cmd: ACTOR DELETE
+[2022.03.11-09.38.57:560][427]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.38.57:565][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.03.11-09.38.57:567][427]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.11-09.39.02:336][943]Cmd: DELETE
+[2022.03.11-09.39.02:336][943]Cmd: ACTOR DELETE
+[2022.03.11-09.39.02:338][943]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.39.02:342][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.11-09.39.02:343][943]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.11-09.39.08:012][585]Cmd: DELETE
+[2022.03.11-09.39.08:012][585]Cmd: ACTOR DELETE
+[2022.03.11-09.39.08:014][585]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.39.08:018][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.11-09.39.08:019][585]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.11-09.39.10:373][785]Cmd: DELETE
+[2022.03.11-09.39.10:373][785]Cmd: ACTOR DELETE
+[2022.03.11-09.39.10:375][785]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.39.10:380][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.11-09.39.10:381][785]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.11-09.40.30:003][678]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning1_2.P_ky_lightning1_2
+[2022.03.11-09.40.32:790][946]LogSlate: Window 'P_ky_lightning1_2' being destroyed
+[2022.03.11-09.41.22:731][108]LogSlate: Window 'Message' being destroyed
+[2022.03.11-09.41.22:734][108]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2022.03.11-09.41.57:691][224]LogEditorTransaction: Undo Delete Emitter
+[2022.03.11-09.41.57:771][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.42.04:226][974]LogCascade: Quitting Cascade. FXSystem=0x000001567CD51C60
+[2022.03.11-09.42.04:236][974]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-09.42.04:237][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-09.42.09:246][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.03.11-09.42.10:034][562]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.11-09.42.10:044][562]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FXVarietyPack/Particles/P_ky_lightning1_2.P_ky_lightning1_2
+[2022.03.11-09.42.10:281][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.11-09.42.14:018][979]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning1_2.P_ky_lightning1_2
+[2022.03.11-09.42.58:326][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.03.11-09.42.58:346][887]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/ThirdPersonExampleMap_Auto2D532A43342BB4CEA8CFB8F8C270046FA.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.03.11-09.42.58:348][887]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.027
+[2022.03.11-09.42.58:348][887]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2022.03.11-09.42.58:349][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FXVarietyPack/Particles/P_ky_lightning1_2] ([1] browsable assets)...
+[2022.03.11-09.42.58:352][887]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning1_2.P_ky_lightning1_2]
+[2022.03.11-09.42.58:352][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/FXVarietyPack/Particles/P_ky_lightning1_2]
+[2022.03.11-09.42.58:387][887]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_lightning1_2_Auto269162CAE45B946B083A3FE97235F6700.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/Autosaves/Game/FXVarietyPack/Particles/P_ky_lightning1_2_Auto2.uasset'
+[2022.03.11-09.42.58:387][887]LogFileHelpers: Auto-saving content packages took 0.039
+[2022.03.11-09.44.25:309][753]LogSlate: Window 'P_ky_lightning1_2' being destroyed
+[2022.03.11-09.44.25:313][753]LogSlate: Window 'P_ky_lightning1_2' being destroyed
+[2022.03.11-09.44.25:313][753]LogCascade: Quitting Cascade. FXSystem=0x00000156683C3DF0
+[2022.03.11-09.44.25:324][753]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-09.44.25:324][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-09.44.27:479][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.03.11-09.44.28:578][  5]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.11-09.44.28:588][  5]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FXVarietyPack/Particles/P_ky_lightning1_2.P_ky_lightning1_2
+[2022.03.11-09.44.28:719][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.03.11-09.44.57:821][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.11-09.44.58:479][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.11-09.44.58:856][461]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_ky_lightning1)
+[2022.03.11-09.44.59:768][565]Cmd: DELETE
+[2022.03.11-09.44.59:768][565]Cmd: ACTOR DELETE
+[2022.03.11-09.44.59:770][565]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.44.59:776][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.03.11-09.44.59:777][565]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.03.11-09.45.00:600][662]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning1_2.P_ky_lightning1_2
+[2022.03.11-09.45.24:887][193]LogSlate: Window 'Message' being destroyed
+[2022.03.11-09.45.24:890][193]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2022.03.11-09.45.26:479][289]LogSlate: Window 'Message' being destroyed
+[2022.03.11-09.45.26:483][289]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2022.03.11-09.45.28:025][361]LogSlate: Window 'Message' being destroyed
+[2022.03.11-09.45.28:028][361]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2022.03.11-09.45.30:185][493]LogSlate: Window 'Message' being destroyed
+[2022.03.11-09.45.30:188][493]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2022.03.11-09.45.32:514][761]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_lightning1_2CAAF58164DD17E41C7946AB8C6AFD17C.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_lightning1_2.uasset'
+[2022.03.11-09.45.32:524][761]AssetCheck: New page: Asset Save: P_ky_lightning1_2
+[2022.03.11-09.45.32:524][761]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning1_2.P_ky_lightning1_2
+[2022.03.11-09.45.36:022][144]LogSlate: Window 'P_ky_lightning1_2' being destroyed
+[2022.03.11-09.45.41:098][727]Cmd: DELETE
+[2022.03.11-09.45.41:098][727]Cmd: ACTOR DELETE
+[2022.03.11-09.45.41:099][727]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.45.41:105][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.11-09.45.41:106][727]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.11-09.45.52:503][945]LogSlate: Window 'Message' being destroyed
+[2022.03.11-09.45.52:505][945]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2022.03.11-09.45.58:525][635]Cmd: DELETE
+[2022.03.11-09.45.58:525][635]Cmd: ACTOR DELETE
+[2022.03.11-09.45.58:527][635]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.45.58:532][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.11-09.45.58:533][635]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.11-09.46.00:406][858]Cmd: TRANSACTION UNDO
+[2022.03.11-09.46.00:406][858]LogEditorTransaction: Undo Delete Actors
+[2022.03.11-09.46.00:497][858]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.46.01:283][935]Cmd: TRANSACTION UNDO
+[2022.03.11-09.46.01:283][935]LogEditorTransaction: Undo Create Actors
+[2022.03.11-09.46.01:354][935]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.46.02:701][ 92]Cmd: TRANSACTION UNDO
+[2022.03.11-09.46.02:701][ 92]LogEditorTransaction: Undo Delete Emitter
+[2022.03.11-09.46.02:773][ 92]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.46.08:748][691]LogSlate: Window 'Message' being destroyed
+[2022.03.11-09.46.08:751][691]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2022.03.11-09.46.10:481][893]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_lightning1_2AC12F42E42E4D8EF586C0E8119B4EAA4.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_lightning1_2.uasset'
+[2022.03.11-09.46.10:489][893]AssetCheck: New page: Asset Save: P_ky_lightning1_2
+[2022.03.11-09.46.10:489][893]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning1_2.P_ky_lightning1_2
+[2022.03.11-09.46.16:243][557]Cmd: DELETE
+[2022.03.11-09.46.16:243][557]Cmd: ACTOR DELETE
+[2022.03.11-09.46.16:245][557]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.46.16:250][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.11-09.46.16:251][557]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.11-09.46.18:906][872]LogEditorTransaction: Undo Delete Actors
+[2022.03.11-09.46.18:985][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.46.19:616][931]LogEditorTransaction: Undo Create Actors
+[2022.03.11-09.46.19:687][931]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.46.20:487][ 23]LogEditorTransaction: Undo Delete Emitter
+[2022.03.11-09.46.20:558][ 23]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.46.45:273][907]Cmd: DELETE
+[2022.03.11-09.46.45:273][907]Cmd: ACTOR DELETE
+[2022.03.11-09.46.45:274][907]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.46.45:280][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.03.11-09.46.45:282][907]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.11-09.47.28:419][924]LogSlate: Window 'Message' being destroyed
+[2022.03.11-09.47.28:421][924]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2022.03.11-09.47.35:256][722]Cmd: DELETE
+[2022.03.11-09.47.35:257][722]Cmd: ACTOR DELETE
+[2022.03.11-09.47.35:259][722]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.47.35:265][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.11-09.47.35:267][722]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.03.11-09.47.36:993][928]Cmd: TRANSACTION UNDO
+[2022.03.11-09.47.36:993][928]LogEditorTransaction: Undo Delete Actors
+[2022.03.11-09.47.37:074][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.47.37:532][967]Cmd: TRANSACTION UNDO
+[2022.03.11-09.47.37:532][967]LogEditorTransaction: Undo Create Actors
+[2022.03.11-09.47.37:603][967]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.47.38:591][ 81]Cmd: TRANSACTION UNDO
+[2022.03.11-09.47.38:591][ 81]LogEditorTransaction: Undo Delete Emitter
+[2022.03.11-09.47.38:661][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.47.38:775][ 90]Cmd: TRANSACTION UNDO
+[2022.03.11-09.47.38:775][ 90]LogEditorTransaction: Undo Delete Actors
+[2022.03.11-09.47.38:853][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-09.47.43:807][430]LogSlate: Window 'Message' being destroyed
+[2022.03.11-09.47.43:809][430]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2022.03.11-09.47.45:181][587]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_lightning1_23251116548A61264CD1EE888F1931B33.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_lightning1_2.uasset'
+[2022.03.11-09.47.45:188][587]AssetCheck: New page: Asset Save: P_ky_lightning1_2
+[2022.03.11-09.47.45:188][587]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning1_2.P_ky_lightning1_2
+[2022.03.11-09.47.48:652][982]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_ky_lightning1_3)
+[2022.03.11-09.47.49:826][122]Cmd: DELETE
+[2022.03.11-09.47.49:826][122]Cmd: ACTOR DELETE
+[2022.03.11-09.47.49:827][122]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.47.49:833][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.11-09.47.49:834][122]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.11-09.47.50:345][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.11-09.47.50:970][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.11-09.47.51:378][302]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_ky_lightning1_2)
+[2022.03.11-09.47.51:724][340]Cmd: DELETE
+[2022.03.11-09.47.51:724][340]Cmd: ACTOR DELETE
+[2022.03.11-09.47.51:726][340]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.47.51:730][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.03.11-09.47.51:731][340]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.11-09.47.55:625][790]Cmd: DELETE
+[2022.03.11-09.47.55:625][790]Cmd: ACTOR DELETE
+[2022.03.11-09.47.55:626][790]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.47.55:632][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.03.11-09.47.55:633][790]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.11-09.47.58:938][ 68]LogSlate: Window 'Message' being destroyed
+[2022.03.11-09.47.58:940][ 68]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2022.03.11-09.48.07:279][ 38]Cmd: DELETE
+[2022.03.11-09.48.07:279][ 38]Cmd: ACTOR DELETE
+[2022.03.11-09.48.07:282][ 38]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.48.07:287][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.03.11-09.48.07:289][ 38]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.11-09.48.17:324][242]LogContentBrowser: Attempting asset rename: P_ky_lightning1_2 -> Jump_Impact
+[2022.03.11-09.48.17:359][242]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/Jump_Impact33399F5743A122ACC11316BAAF26043E.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/Jump_Impact.uasset'
+[2022.03.11-09.48.17:397][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.03.11-09.48.17:407][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.03.11-09.48.17:412][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.03.11-09.48.17:455][242]AssetCheck: New page: Asset Save: Jump_Impact
+[2022.03.11-09.48.17:455][242]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/Jump_Impact.Jump_Impact
+[2022.03.11-09.48.54:769][658]Cmd: DELETE
+[2022.03.11-09.48.54:769][658]Cmd: ACTOR DELETE
+[2022.03.11-09.48.54:771][658]LogEditorActor: Deleted Actor: Emitter
+[2022.03.11-09.48.54:776][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.11-09.48.54:779][658]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.11-09.50.06:919][841]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FallGuysCharacter/FallGuysCharacter.FallGuysCharacter
+[2022.03.11-09.50.07:942][841]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.11-09.54.16:311][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.03.11-09.54.16:330][136]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/ThirdPersonExampleMap_Auto3BAD14F9842D71EFC815EB1B3895D8014.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2022.03.11-09.54.16:331][136]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.042
+[2022.03.11-09.54.16:331][136]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2022.03.11-09.54.16:332][136]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FallGuysCharacter/FallGuysCharacter] ([2] browsable assets)...
+[2022.03.11-09.54.16:349][136]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/FallGuysCharacter/FallGuysCharacter.FallGuysCharacter_C]
+[2022.03.11-09.54.16:358][136]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FallGuysCharacter/FallGuysCharacter.FallGuysCharacter]
+[2022.03.11-09.54.16:358][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/FallGuysCharacter/FallGuysCharacter]
+[2022.03.11-09.54.16:390][136]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/FallGuysCharacter_Auto3C340AED64A181025E679DABF2B6EE2EE.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/Autosaves/Game/FallGuysCharacter/FallGuysCharacter_Auto3.uasset'
+[2022.03.11-09.54.16:391][136]LogFileHelpers: Auto-saving content packages took 0.060
+[2022.03.11-09.55.41:020][745]BlueprintLog: New page: Compile FallGuysCharacter
+[2022.03.11-09.55.41:065][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.03.11-09.56.03:255][273]BlueprintLog: New page: Compile FallGuysCharacter
+[2022.03.11-09.56.03:298][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.03.11-09.56.38:012][268]BlueprintLog: New page: Compile FallGuysCharacter
+[2022.03.11-09.56.38:056][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.03.11-10.00.57:229][619]BlueprintLog: New page: Compile FallGuysCharacter
+[2022.03.11-10.00.57:275][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.03.11-10.01.53:280][571]BlueprintLog: New page: Compile FallGuysCharacter
+[2022.03.11-10.01.53:327][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.03.11-10.02.03:755][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-10.02.03:761][ 59]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.11-10.02.03:762][ 59]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2022.03.11-10.02.03:790][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.03.11-10.02.03:791][ 59]LogPlayLevel: PlayLevel: Blueprint regeneration took 29 ms (1 blueprints)
+[2022.03.11-10.02.03:791][ 59]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 11, 2022, 12:02:03 PM)
+[2022.03.11-10.02.03:791][ 59]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-10.02.03:799][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007991s)
+[2022.03.11-10.02.03:800][ 59]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-10.02.03:801][ 59]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2022.03.11-10.02.03:801][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009340s)
+[2022.03.11-10.02.03:819][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.03.11-10.02.03:820][ 59]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.03.11-10.02.03:820][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-10.02.03:820][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-10.02.03:820][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-10.02.03:820][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-10.02.03:820][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-10.02.03:820][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-10.02.03:820][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-10.02.03:820][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-10.02.03:821][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-10.02.03:821][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-10.02.03:821][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-10.02.03:821][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-10.02.03:823][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-10.02.03:823][ 59]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-10.02.03:829][ 59]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2022.03.11-10.02.03:830][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-10.02.03:830][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-10.02.03:830][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-10.02.03:830][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-10.02.03:830][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-10.02.03:830][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-10.02.03:831][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-10.02.03:831][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-10.02.03:831][ 59]LogInit: FAudioDevice initialized.
+[2022.03.11-10.02.03:831][ 59]LogAudio: Display: Audio Device (ID: 37) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-10.02.03:851][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-10.02.03:851][ 59]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-10.02.03:853][ 59]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-11.02.03
+[2022.03.11-10.02.03:853][ 59]LogWorld: Bringing up level for play took: 0.001606
+[2022.03.11-10.02.03:853][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.03.11-10.02.03:857][ 59]PIE: Server logged in
+[2022.03.11-10.02.03:858][ 59]PIE: Play in editor total start time 0.097 seconds.
+[2022.03.11-10.02.03:888][ 60]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.03.11-10.02.44:855][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-10.02.44:855][878]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-10.02.44:856][878]LogSlate: Window 'Platformer3D Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.11-10.02.44:860][878]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-10.02.44:860][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-10.02.44:868][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-10.02.44:872][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-10.02.44:886][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-10.02.44:887][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-10.02.44:891][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.03.11-10.02.44:935][882]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.03.11-10.03.22:453][357]BlueprintLog: New page: Compile FallGuysCharacter
+[2022.03.11-10.03.22:499][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.03.11-10.03.26:414][813]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-10.03.26:420][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-10.03.26:420][813]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 11, 2022, 12:03:26 PM)
+[2022.03.11-10.03.26:420][813]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-10.03.26:428][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007665s)
+[2022.03.11-10.03.26:429][813]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-10.03.26:429][813]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2022.03.11-10.03.26:429][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008929s)
+[2022.03.11-10.03.26:455][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.03.11-10.03.26:456][813]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.03.11-10.03.26:456][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-10.03.26:456][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-10.03.26:456][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-10.03.26:456][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-10.03.26:456][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-10.03.26:457][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-10.03.26:457][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-10.03.26:457][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-10.03.26:457][813]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-10.03.26:457][813]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-10.03.26:457][813]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-10.03.26:457][813]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-10.03.26:459][813]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-10.03.26:459][813]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-10.03.26:466][813]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2022.03.11-10.03.26:466][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-10.03.26:466][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-10.03.26:466][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-10.03.26:467][813]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-10.03.26:467][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-10.03.26:467][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-10.03.26:468][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-10.03.26:468][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-10.03.26:468][813]LogInit: FAudioDevice initialized.
+[2022.03.11-10.03.26:468][813]LogAudio: Display: Audio Device (ID: 38) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-10.03.26:486][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-10.03.26:486][813]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-10.03.26:488][813]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-11.03.26
+[2022.03.11-10.03.26:488][813]LogWorld: Bringing up level for play took: 0.001547
+[2022.03.11-10.03.26:488][813]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2022.03.11-10.03.26:492][813]PIE: Server logged in
+[2022.03.11-10.03.26:493][813]PIE: Play in editor total start time 0.074 seconds.
+[2022.03.11-10.03.43:605][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-10.03.43:605][853]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-10.03.43:605][853]LogSlate: Window 'Platformer3D Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.11-10.03.43:609][853]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-10.03.43:610][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-10.03.43:620][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-10.03.43:624][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-10.03.43:638][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-10.03.43:638][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-10.03.43:639][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-10.03.43:643][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.03.11-10.03.43:672][855]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.03.11-10.03.58:136][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.11-10.03.58:165][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.11-10.03.58:182][575]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/ThirdPersonExampleMap1A3478334C0B97CD189F15A05DAC3D6A.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.11-10.03.58:193][575]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.043
+[2022.03.11-10.03.58:239][575]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/FallGuysCharacterC1E593C24707715533EBA699C816597B.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FallGuysCharacter/FallGuysCharacter.uasset'
+[2022.03.11-10.03.58:248][575]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-10.03.58:248][575]LogContentValidation: Display: Validating Blueprint /Game/FallGuysCharacter/FallGuysCharacter.FallGuysCharacter
+[2022.03.11-10.03.58:248][575]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-10.04.27:233][549]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/Jump_Impact05F2EEA44B6B9EECDD5DC2B802011078.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/Jump_Impact.uasset'
+[2022.03.11-10.04.27:274][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.03.11-10.04.27:333][549]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/FallGuysCharacter943CC9F546D7888EFA4E17867E249B51.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FallGuysCharacter/FallGuysCharacter.uasset'
+[2022.03.11-10.04.27:392][549]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-10.04.27:392][549]LogContentValidation: Display: Validating Blueprint /Game/FallGuysCharacter/FallGuysCharacter.FallGuysCharacter
+[2022.03.11-10.04.27:392][549]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/Jump_Impact.Jump_Impact
+[2022.03.11-10.04.42:834][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2022.03.11-10.04.43:456][462]Cmd: TRANSACTION UNDO
+[2022.03.11-10.04.43:456][462]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.11-10.04.43:540][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.11-10.06.04:019][576]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B18CEC6E9F649D3542472E4E28B4E250CFEE94A), compiling. 
+[2022.03.11-10.06.04:028][577]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:028][577]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.03.11-10.06.04:028][577]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.03.11-10.06.04:028][577]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:029][577]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.04:040][577]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.03.11-10.06.04:040][577]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.03.11-10.06.04:040][577]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.03.11-10.06.04:040][577]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.03.11-10.06.04:040][577]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.04:054][577]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AECA17CB1A6F5E7D243B33BDAEDDAD78ED3FBC3E), compiling. 
+[2022.03.11-10.06.04:069][578]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:069][578]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.03.11-10.06.04:069][578]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.03.11-10.06.04:069][578]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:073][578]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.04:098][578]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2C7484FCDC68707F283158FB3CD050A802107692), compiling. 
+[2022.03.11-10.06.04:111][579]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:115][579]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.04:129][579]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2EC9E8B47454605B7B7694EF8A7D233FBAC2D4C4), compiling. 
+[2022.03.11-10.06.04:143][580]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:143][580]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.04:158][580]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FBA1249AEEEF355CDA9C63E60A8A3D29368F15A5), compiling. 
+[2022.03.11-10.06.04:175][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:175][581]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.04:187][581]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6527432F06BAFF7D59812551E873777CAC654D59), compiling. 
+[2022.03.11-10.06.04:203][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:203][582]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.04:428][594]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.03.11-10.06.04:428][594]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:440][594]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.11-10.06.04:440][594]LogShaderCompilers: Display: Total job queries 901, among them cache hits 424 (47.06%)
+[2022.03.11-10.06.04:440][594]LogShaderCompilers: Display: Tracking 430 distinct input hashes that result in 234 distinct outputs (54.42%)
+[2022.03.11-10.06.04:440][594]LogShaderCompilers: Display: RAM used: 1.31 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2022.03.11-10.06.04:440][594]LogShaderCompilers: Display: ================================================
+[2022.03.11-10.06.04:456][595]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.03.11-10.06.04:456][595]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:482][596]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.03.11-10.06.04:483][596]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:567][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.03.11-10.06.04:567][598]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:686][603]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.03.11-10.06.04:686][603]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:711][604]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.03.11-10.06.04:711][604]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:745][605]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.03.11-10.06.04:745][605]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.04:806][607]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.03.11-10.06.04:806][607]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.04:940][608]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.03.11-10.06.04:940][608]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.05:089][612]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2022.03.11-10.06.05:089][612]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.05:106][612]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.03.11-10.06.05:106][612]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.05:132][613]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.03.11-10.06.05:132][613]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.05:204][615]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.03.11-10.06.05:204][615]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.05:260][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.03.11-10.06.05:260][615]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.05:376][618]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.03.11-10.06.05:376][618]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.05:495][624]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.03.11-10.06.05:495][624]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.05:529][624]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.03.11-10.06.05:530][624]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.05:604][628]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.03.11-10.06.05:604][628]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.05:653][631]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.03.11-10.06.05:653][631]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.26:059][555]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FXVarietyPack/Materials/M_ky_magicCircle020.M_ky_magicCircle020
+[2022.03.11-10.06.26:061][555]LogMaterial: Display: Missing cached shadermap for M_ky_magicCircle020 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B5BFAB2481A46A41D80E523F79D94434AB0AC6E), compiling. 
+[2022.03.11-10.06.26:068][555]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.26:118][555]LogMaterial: Display: Missing cached shadermap for M_ky_magicCircle020 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A627C2AFC5088CB3F1217567C6772553B476E6D), compiling. 
+[2022.03.11-10.06.26:130][555]LogMaterial: Display: Missing cached shadermap for M_ky_magicCircle020 in PCD3D_SM5, Default, SM5 (DDC key hash: 92CC9F43DDE224E8571F4ADD2FC10B9E3468D84D), compiling. 
+[2022.03.11-10.06.26:132][555]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 57EEDE2C6D02FF0920BEA2B4C34DE9FCCEC7190B), compiling. 
+[2022.03.11-10.06.26:134][555]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: E4B9DD7D35567F7CB22DE2503026DDAC825B5466), compiling. 
+[2022.03.11-10.06.26:135][555]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_6 in PCD3D_SM5, Default, SM5 (DDC key hash: B450B47171E16D7D657DA73D3A0C70D9AA7E5C80), compiling. 
+[2022.03.11-10.06.26:136][555]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_11 in PCD3D_SM5, Default, SM5 (DDC key hash: BF6BB96583E5CA2DED21471959F94BAA8A5F4651), compiling. 
+[2022.03.11-10.06.26:138][555]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_12 in PCD3D_SM5, Default, SM5 (DDC key hash: 47EE8A6727CC0E9CD00859B88A45F7366AD025C4), compiling. 
+[2022.03.11-10.06.26:147][555]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DA91A204CD358801B6EB5C4A3C74C7FBCF46C949), compiling. 
+[2022.03.11-10.06.26:175][555]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.11-10.06.26:175][555]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.03.11-10.06.26:175][555]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.26:288][556]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.11-10.06.26:739][576]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.03.11-10.06.26:739][576]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.11-10.06.26:754][576]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.11-10.06.26:754][576]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.03.11-10.06.26:754][576]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.11-10.06.26:941][584]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.11-10.06.26:941][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.03.11-10.06.26:941][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.11-10.06.27:324][618]MaterialEditorStats: Base pass shader without light map: 153 instructions
+[2022.03.11-10.06.27:324][618]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.11-10.06.27:324][618]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.11-10.06.27:324][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.03.11-10.06.27:324][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.11-10.06.28:984][791]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-10.06.28:984][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-10.06.46:073][360]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.MI_ky_primitive_dynB_nonD
+[2022.03.11-10.06.48:274][592]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-10.06.48:274][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-10.06.59:392][807]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/MI_ky_primitive_dynB_nonD0108C06243A5D17CE2153DB742DB9DD0.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/Particles/Materials/MI_ky_primitive_dynB_nonD.uasset'
+[2022.03.11-10.06.59:447][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.03.11-10.06.59:474][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.03.11-10.06.59:489][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.03.11-10.06.59:540][807]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_healAura2D2C056D40EDEFA3A70462B2972C3B68.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_healAura.uasset'
+[2022.03.11-10.06.59:578][807]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_lightning11537170A4B483675A5D609A60B66AB47.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_lightning1.uasset'
+[2022.03.11-10.06.59:621][807]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_lightning25B3A07A6423E08392F328A8D6EB9EC11.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_lightning2.uasset'
+[2022.03.11-10.06.59:672][807]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_lightning39677FB7642C7F6DAF40FDF9DF266E61B.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_lightning3.uasset'
+[2022.03.11-10.06.59:680][807]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/Jump_ImpactF1D65E634B9C97943B7D58A78C7D0EED.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/Jump_Impact.uasset'
+[2022.03.11-10.06.59:741][807]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-10.06.59:741][807]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Particles/Materials/MI_ky_primitive_dynB_nonD.MI_ky_primitive_dynB_nonD
+[2022.03.11-10.06.59:741][807]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_healAura.P_ky_healAura
+[2022.03.11-10.06.59:741][807]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning1.P_ky_lightning1
+[2022.03.11-10.06.59:741][807]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning2.P_ky_lightning2
+[2022.03.11-10.06.59:741][807]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning3.P_ky_lightning3
+[2022.03.11-10.06.59:741][807]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/Jump_Impact.Jump_Impact
+[2022.03.11-10.07.31:893][613]LogSlate: Window 'Jump_Impact' being destroyed
+[2022.03.11-10.07.38:519][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.03.11-10.07.48:725][404]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.11-10.09.18:218][985]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/MI_ky_primitive_dynB_nonDAF1292DD4DA9B753C667DEBA288CB054.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset'
+[2022.03.11-10.09.18:268][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.03.11-10.09.18:291][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.03.11-10.09.18:305][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.03.11-10.09.18:347][985]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_healAuraB6B21C514218CF7FB1D3539E1C2CFD88.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_healAura.uasset'
+[2022.03.11-10.09.18:381][985]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_lightning155C8910E4E3ECE7BECB02E9F904078F3.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_lightning1.uasset'
+[2022.03.11-10.09.18:420][985]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_lightning2DCBC03D742E3CFA58BCCF6B79AFA039B.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_lightning2.uasset'
+[2022.03.11-10.09.18:464][985]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/P_ky_lightning33CA569FD45D285B2D7B3BBAFEE2D55F0.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/P_ky_lightning3.uasset'
+[2022.03.11-10.09.18:472][985]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/Jump_ImpactB58884974F36A1B8381E29BEF77A82EE.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/FXVarietyPack/Particles/Jump_Impact.uasset'
+[2022.03.11-10.09.18:533][985]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-10.09.18:534][985]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.MI_ky_primitive_dynB_nonD
+[2022.03.11-10.09.18:534][985]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_healAura.P_ky_healAura
+[2022.03.11-10.09.18:534][985]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning1.P_ky_lightning1
+[2022.03.11-10.09.18:534][985]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning2.P_ky_lightning2
+[2022.03.11-10.09.18:534][985]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/P_ky_lightning3.P_ky_lightning3
+[2022.03.11-10.09.18:534][985]LogContentValidation: Display: Validating ParticleSystem /Game/FXVarietyPack/Particles/Jump_Impact.Jump_Impact
+[2022.03.11-10.09.41:011][615]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-10.09.41:017][615]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.11-10.09.41:018][615]LogPlayLevel: [PlayLevel] Compiling FallGuysCharacter before play...
+[2022.03.11-10.09.41:084][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.03.11-10.09.41:086][615]LogPlayLevel: PlayLevel: Blueprint regeneration took 69 ms (1 blueprints)
+[2022.03.11-10.09.41:086][615]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 11, 2022, 12:09:41 PM)
+[2022.03.11-10.09.41:114][615]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-10.09.41:122][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007923s)
+[2022.03.11-10.09.41:123][615]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-10.09.41:123][615]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2022.03.11-10.09.41:123][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009284s)
+[2022.03.11-10.09.41:141][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.11-10.09.41:141][615]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.03.11-10.09.41:142][615]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-10.09.41:142][615]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-10.09.41:142][615]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-10.09.41:142][615]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-10.09.41:142][615]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-10.09.41:142][615]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-10.09.41:142][615]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-10.09.41:142][615]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-10.09.41:142][615]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-10.09.41:142][615]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-10.09.41:142][615]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-10.09.41:142][615]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-10.09.41:145][615]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-10.09.41:145][615]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-10.09.41:151][615]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2022.03.11-10.09.41:152][615]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-10.09.41:152][615]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-10.09.41:152][615]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-10.09.41:152][615]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-10.09.41:152][615]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-10.09.41:152][615]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-10.09.41:153][615]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-10.09.41:153][615]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-10.09.41:153][615]LogInit: FAudioDevice initialized.
+[2022.03.11-10.09.41:153][615]LogAudio: Display: Audio Device (ID: 39) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-10.09.41:160][615]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-10.09.41:162][615]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-11.09.41
+[2022.03.11-10.09.41:162][615]LogWorld: Bringing up level for play took: 0.001092
+[2022.03.11-10.09.41:162][615]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.03.11-10.09.41:164][615]PIE: Server logged in
+[2022.03.11-10.09.41:165][615]PIE: Play in editor total start time 0.149 seconds.
+[2022.03.11-10.09.55:105][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-10.09.55:105][282]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-10.09.55:105][282]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-10.09.55:105][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-10.09.55:115][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-10.09.55:118][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-10.09.55:132][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-10.09.55:132][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-10.09.55:133][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-10.09.55:137][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.03.11-10.09.55:187][284]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.03.11-10.10.10:936][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.03.11-10.10.10:963][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.11-10.10.10:980][147]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Saved/ThirdPersonExampleMap427DFB1748847232EB25F2A135C8894D.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal-Engine_3D-Platformer/Platformer3D/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.11-10.10.10:991][147]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.042
+[2022.03.11-10.10.10:999][147]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.03.11-10.10.10:999][147]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
